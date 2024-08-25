@@ -1,5 +1,5 @@
 
-# Simplest GST Billing app.
+#  GST Billing web app.
 
 * Easily create invoices
 * Manage inventory
